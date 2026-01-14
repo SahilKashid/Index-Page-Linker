@@ -1,0 +1,5 @@
+{
+  "name": "Index Page Linker",
+  "description": "Upload a PDF, automatically detect index/TOC entries using Gemini Vision, and create clickable links to navigate the document.",
+  "requestFramePermissions": []
+}
